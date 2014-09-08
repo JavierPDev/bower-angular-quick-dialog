@@ -1,0 +1,30 @@
+{
+  "name": "angular-quick-dialog",
+  "authors": [
+    "JavierPDev <javier@javierdev.com> (http://javierdev.com)"
+  ],
+  "description": "Quick and simple dialog module for angularjs. No dependencies other than angularjs.",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/JavierPDev/angular-quick-dialog.git"
+  },
+  "keywords": [
+    "angularjs",
+    "dialog",
+    "modal",
+    "angular",
+    "js",
+    "javascript",
+    "quick",
+    "simple"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23"
+  }
+}
